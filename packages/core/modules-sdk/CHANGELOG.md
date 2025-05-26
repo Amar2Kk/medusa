@@ -1,5 +1,16 @@
 # @medusajs/modules-sdk
 
+## 2.8.4
+
+### Patch Changes
+
+- [#12584](https://github.com/medusajs/medusa/pull/12584) [`da5e278a783010e886fbae96c4b704bc9fcf78e5`](https://github.com/medusajs/medusa/commit/da5e278a783010e886fbae96c4b704bc9fcf78e5) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(modules-sdk): Log full error when a loader fail to run
+
+- Updated dependencies [[`f6f34cc0e419a0c4be0971f13eb59b2a1e3aa31d`](https://github.com/medusajs/medusa/commit/f6f34cc0e419a0c4be0971f13eb59b2a1e3aa31d)]:
+  - @medusajs/utils@2.8.4
+  - @medusajs/orchestration@2.8.4
+  - @medusajs/types@2.8.4
+
 ## 2.8.3
 
 ### Patch Changes

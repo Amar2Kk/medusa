@@ -1,5 +1,14 @@
 # @medusajs/utils
 
+## 2.8.4
+
+### Patch Changes
+
+- [#12592](https://github.com/medusajs/medusa/pull/12592) [`f6f34cc0e419a0c4be0971f13eb59b2a1e3aa31d`](https://github.com/medusajs/medusa/commit/f6f34cc0e419a0c4be0971f13eb59b2a1e3aa31d) Thanks [@thetutlage](https://github.com/thetutlage)! - fix: module import paths to contain unix slash
+
+- Updated dependencies []:
+  - @medusajs/types@2.8.4
+
 ## 2.8.3
 
 ### Patch Changes
